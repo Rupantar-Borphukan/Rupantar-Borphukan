@@ -11,4 +11,4 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="github | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="github | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/rupantar-borphukan-25a87b227/]
