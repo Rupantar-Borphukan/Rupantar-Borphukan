@@ -1,7 +1,7 @@
 ### Hi there, Rupantar this side 👋
 
 
-**I am Freshman at NITS, EIE ; Web Developer, Blockchain enthusiast, Competitive Programmer**  ✨ 
+**I am Freshman and a  Web Developer, Blockchain enthusiast, Competitive Programmer**  ✨ 
 
 
 - 🔭 I’m currently trying to work on various projects
