@@ -55,12 +55,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupantar-Borphukan&show_icons=true&theme=blue-green)
 
+
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=Rupantar-Borphukan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Rupantar-Borphukan" /></p>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <br/>
 
 ## 📚 Skills 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=12&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan)
+<br>
+<br>
+
 
 <br/>
 <!-- <a href="https://github.com/Rupantar-Borphukan/github-readme-stats">
@@ -77,7 +83,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](
 https://www.instagram.com/rupantar_b12/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RupantarB) -->
-
 
 
 
