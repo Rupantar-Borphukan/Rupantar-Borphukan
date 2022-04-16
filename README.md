@@ -3,20 +3,25 @@
 
 **I am Freshman and a  Web Developer, Blockchain enthusiast, Competitive Programmer**  ✨ 
 
-
 - 🔭 I’m currently trying to work on various projects
 - 👨‍💻 I’m currently learning DSA, Web Development, Blockchain Development
 - 🌟 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I play Chess, Badminton.
 
 
-### How to Reach Me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rupantar-borphukan-25a87b227/)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100011346334783)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](
-https://www.instagram.com/rupantar_b12/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RupantarB)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rupantar-borphukan-25a87b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupantar-borphukan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011346334783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rupantar Borphukan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rupantar_b12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupantar_b12" height="30" width="40" /></a>
+<a href="https://twitter.com/RupantarB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RupantarB" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rupan_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rupan_123" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/RB_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="RB_coder" height="30" width="40" /></a>
+<a href="https://leetcode.com/Rupantar-Borphukan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rupantar-Borphukan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rupantarborphukan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rupantarborphukan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rupantarborphukan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rupantarborphukan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rupantarborphuk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupantarborphuk1" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -64,6 +69,15 @@ https://www.instagram.com/rupantar_b12/)
 <a href="https://github.com/Rupantar-Borphukan/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupantar-Borphukan&repo=convoychat" />
 </a> -->
+
+
+<!-- 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rupantar-borphukan-25a87b227/)
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100011346334783)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](
+https://www.instagram.com/rupantar_b12/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RupantarB) -->
+
 
 
 
