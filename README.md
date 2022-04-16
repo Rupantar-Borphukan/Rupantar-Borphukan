@@ -9,4 +9,6 @@
 - 🌟 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I play Chess, Badminton.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRupantar-Borphukan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
