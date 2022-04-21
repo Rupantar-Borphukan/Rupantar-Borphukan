@@ -1,5 +1,5 @@
 ### Hi there, 👋 Rupantar this side
-[![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-darkgreen)](https://rupantar-borphukan.github.io/)![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
+[![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-darkgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
 
 **I am Freshman and a  Web Developer, Blockchain enthusiast, Competitive Programmer**  ✨ 
 
