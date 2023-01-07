@@ -43,9 +43,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]() 
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/resyfer/resyfer/blob/main/img/mongodb.svg" />]()
 [<img align="left" alt="git" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/git.svg" />]()
-
-
-[<img align="left" alt="React" width="26px" src="https://socket.io/images/logo.svg" />]()
+[<img align="left" alt="React" width="26px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" />]()
 
 <br />
 <br />
