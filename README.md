@@ -44,7 +44,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/resyfer/resyfer/blob/main/img/mongodb.svg" />]()
 [<img align="left" alt="git" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/git.svg" />]()
 [<img align="left" alt="React" width="26px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" />]()
-[<img align="left" alt="React" width="26px" src="https://sabe.io/tutorials/getting-started-with-handlebars-js/hero.png" />]()
+[<img align="left" alt="React" width="26px" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?w=500&ssl=1" />]()
 
 
 <br />
