@@ -1,7 +1,7 @@
 ### Hi there, 👋 Rupantar this side
 [![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
 
-**I am Freshman and a  Web Developer, Blockchain enthusiast**  ✨ 
+**I am Sophomore and a  MERN Stack Developer, Blockchain Enthusiast**  ✨ 
 
 - 🔭 I’m currently trying to work on various projects
 - 👨‍💻 I’m currently learning DSA, Web Development, Blockchain Development
