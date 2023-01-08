@@ -3,9 +3,9 @@
 
 **I am Sophomore,  MERN Stack Developer, Blockchain Enthusiast**  ✨ 
 
-- 🔭 I’m currently trying to work on various projects
-- 👨‍💻 I’m currently learning DSA, Web Development, Blockchain Development
-- 🌟 I’m looking to collaborate on Open Source Projects
+- 🔭 Currently trying to work on various projects
+- 👨‍💻 Learning DSA, Web Development, Blockchain Development
+- 🌟 Looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I play Chess, Badminton.
 
 
