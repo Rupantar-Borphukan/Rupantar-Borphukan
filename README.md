@@ -1,7 +1,7 @@
 ### Hi there, 👋 Rupantar this side
 [![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
 
-**I am Sophomore and a  MERN Stack Developer, Blockchain Enthusiast**  ✨ 
+**I am Sophomore,  MERN Stack Developer, Blockchain Enthusiast**  ✨ 
 
 - 🔭 I’m currently trying to work on various projects
 - 👨‍💻 I’m currently learning DSA, Web Development, Blockchain Development
@@ -44,6 +44,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/resyfer/resyfer/blob/main/img/mongodb.svg" />]()
 [<img align="left" alt="git" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/git.svg" />]()
 [<img align="left" alt="React" width="26px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" />]()
+[<img align="left" alt="React" width="26px" src="https://sabe.io/tutorials/getting-started-with-handlebars-js/hero.png" />]()
+
 
 <br />
 <br />
