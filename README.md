@@ -48,7 +48,7 @@
 [<img align="left" alt="Socketio" width="26px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" />]()
 [<img align="left" alt="Handlebars" width="26px" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?w=500&ssl=1" />]()
 [<img align="left" alt="Thunder Client" width="26px" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.3.0/1672941460424/Microsoft.VisualStudio.Services.Icons.Default" />]()
-[<img align="left" alt="Solidity" width="26px" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" />]()
+[<img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" />]()
 [<img align="left" alt="Ether.js" width="26px" src="https://miro.medium.com/max/828/1*SHg7SgjVtPJ-Fma-liXz_Q.webp" />]()
 
 
