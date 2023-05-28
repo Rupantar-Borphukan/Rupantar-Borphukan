@@ -75,21 +75,6 @@
 
 
 <br/>
-<!-- <a href="https://github.com/Rupantar-Borphukan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupantar-Borphukan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Rupantar-Borphukan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupantar-Borphukan&repo=convoychat" />
-</a> -->
 
 
-<!-- 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rupantar-borphukan-25a87b227/)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100011346334783)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](
-https://www.instagram.com/rupantar_b12/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RupantarB) -->
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=20&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan)
