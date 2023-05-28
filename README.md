@@ -1,3 +1,5 @@
+<img src="./assets/gif.gif" alt="gif" />
+
 ### Hi there, 👋 Rupantar this side
 [![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
 
