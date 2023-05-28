@@ -69,12 +69,12 @@
 
 ## 📚 Skills 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=12&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=25&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan)
 <br>
 <br>
 
 
 <br/>
+<!-- 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=20&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=20&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan) -->
