@@ -3,7 +3,6 @@
 ### Hi there, 👋 Rupantar this side
 [![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=I'm+a+MERN+Stack+Developer;And+a+Blockchain+Enthusiast)
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=00FF00&size=30&lines=I'm+a+MERN+Stack+Developer;And+a+Blockchain+Enthusiast)
 
 
