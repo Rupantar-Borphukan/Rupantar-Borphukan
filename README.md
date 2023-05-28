@@ -7,7 +7,7 @@
 
 - 🔭 Building solutions for the betterment of tomorrow
 - 👨‍💻 Learning DSA, Blockchain Development
-- 🌟 Looking to collaborate on Open Source Projects
+- 🌟 Looking to collaborate on Open Source Organisation
 - ⚡ Fun fact: I play Chess, Badminton.
 
 
