@@ -5,10 +5,7 @@
 
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=00FF00&size=30&lines=I'm+a+MERN+Stack+Developer;And+a+Blockchain+Enthusiast)
 
-
-**I am Sophomore,  MERN Stack Developer, Blockchain Enthusiast**  ✨ 
-
-- 🔭 Currently trying to work on various projects
+- 🔭 Building solutions for the betterment of tomorrow
 - 👨‍💻 Learning DSA, Blockchain Development
 - 🌟 Looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I play Chess, Badminton.
