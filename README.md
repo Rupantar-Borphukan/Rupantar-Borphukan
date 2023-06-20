@@ -50,7 +50,7 @@
 [<img align="left" alt="Handlebars" width="40px" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?w=500&ssl=1" />]()
 [<img align="left" alt="Thunder Client" width="26px" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.3.0/1672941460424/Microsoft.VisualStudio.Services.Icons.Default" />]()
 [<img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" />]()
-[<img align="left" alt="Ether.js" width="26px" src="https://miro.medium.com/max/828/1*SHg7SgjVtPJ-Fma-liXz_Q.webp" />]()
+[<img align="left" alt="Ether.js" width="40px" src="https://miro.medium.com/max/828/1*SHg7SgjVtPJ-Fma-liXz_Q.webp" />]()
 
 
 <br />
