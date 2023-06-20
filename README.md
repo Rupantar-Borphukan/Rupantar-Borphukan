@@ -30,15 +30,14 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img align="left" alt="java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />]()
 <!-- [<img align="left" alt="Deno" width="26px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />]() -->
-[<img align="left" alt="Deno" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/c.svg" />]()
+[<img align="left" alt="C" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/c.svg" />]()
 [<img align="left" alt="c++" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/cpp.svg" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="HTML5" width="35px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8a045799766163.5efa31210a588.png" />]()
+[<img align="left" alt="Figma" width="35px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8a045799766163.5efa31210a588.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
+[<img align="left" alt="Boostrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8a045799766163.5efa31210a588.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 
 [<img align="left" alt="Node.js" width="26px" src="https://github.com/resyfer/resyfer/blob/main/img/nodejs.svg" />]()
