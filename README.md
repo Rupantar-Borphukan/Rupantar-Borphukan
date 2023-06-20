@@ -1,4 +1,4 @@
-<img src="codeing.gif" alt="gif" width="100" />
+<img src="codeing.gif" alt="gif" width="800" height="500"/>
 
 ### Hi there, 👋 Rupantar this side
 [![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
