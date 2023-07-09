@@ -53,7 +53,7 @@
 [<img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" />]()
 [<img align="left" alt="Ether.js" width="40px" src="https://miro.medium.com/max/828/1*SHg7SgjVtPJ-Fma-liXz_Q.webp" />]()
 
-
+[<img align="left" alt="Solidity" width="26px" src="https://jupyter.org/assets/homepage/main-logo.svg" />]()
 <br />
 <br />
 <br />
